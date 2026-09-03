@@ -1,0 +1,10 @@
+{
+    "WINDOWS_USER_NAME": "CraftingMeister8",
+    "AUTHOR": "Crafting",
+    "DEFAULT_MC_VERSION": "26.2",
+    "DEFAULT_PACK_FORMAT": "107",
+    "DEFAULT_WORLD_NAME": "Datapack DEV",
+    "DEFAULT_PACK_ICON_PATH": "",
+
+    "OPEN_DATAPACK_IN_EXPLORER": true
+}

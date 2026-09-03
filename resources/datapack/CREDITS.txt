@@ -1,0 +1,8 @@
+Datapack made by: $AUTHOR (https://modrinth.com/user/$AUTHOR)
+Datapack download (Modrinth): https://modrinth.com/datapack/LINK-HERE
+
+=================================================================================
+
+All rights reserverd.
+
+$VERSION - $MC_VERSION
